@@ -1,0 +1,46 @@
+footer {
+   
+    background-color: rgb(83, 61, 231);
+    display: ;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    bottom: 0;
+    width: 100%;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.phone-item {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+  }
+
+.phone-item img {
+  margin-right: 20px;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.charger-item{
+    display: flex;
+    align-items: center;
+   
+    padding-top: 20px;
+  }
+
+.airpods-item{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+  }
+
