@@ -8,3 +8,10 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+
+
+.navbar hover{
+    color: rgb(83, 61, 231);
+    background-color: rgb(83, 61, 231);
+}
